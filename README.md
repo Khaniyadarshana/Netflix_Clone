@@ -15,7 +15,7 @@ TMDB API for movie data
 JavaScript (ES6+)
 Getting Started:
 
-#Clone this repository:
+# Clone this repository:
 
 
 Copy code: 
