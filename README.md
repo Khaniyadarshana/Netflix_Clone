@@ -17,13 +17,13 @@ Getting Started:
 
 #Clone this repository:
 
-bash
-Copy code
+
+Copy code: 
 git clone https://github.com/Khaniyadarshana/Netflix_Clone
 
 Install Dependencies:
-bash
-Copy code
+
+Copy code: 
 npm install
 
 Get Your TMDB API Key:
@@ -32,8 +32,8 @@ Replace 'apiKey' in the .env file with your actual API key.
 
 Start the Development Server:
 
-bash
-Copy code
+
+Copy code: 
 npm start
 
 # Contributions:
