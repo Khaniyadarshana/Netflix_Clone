@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# Netflix_Clone
+Welcome to the Netflix Clone project! This project is a result of my journey into the world of web development, where I recreated the user interface of Netflix using React, Sass, and the TMDB API, all thanks to the amazing guidance from @meabhisingh(aka 6packprogrammer) on YouTube. It's been an incredible learning experience, and I'm excited to share it with you.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# How it looks
+![Netflix Clone Image]("C:\Users\CHANDRIKA RAVI\Downloads\Netflixshot.png")
+# Features:
+📽️ Browse a vast library of movies and TV shows from the TMDB API.
+🎥 Watch movie trailers by clicking on the titles.
+🖥️ Responsive design for seamless viewing on different devices.
+💬 A clean and user-friendly UI, mirroring the Netflix experience.
+🔥 Stay up-to-date with trending movies and shows.
 
-## Available Scripts
 
-In the project directory, you can run:
+# Technologies Used:
+React.js
+Sass for styling
+TMDB API for movie data
+JavaScript (ES6+)
+Getting Started:
 
-### `npm start`
+# Clone this repository:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Copy code: 
+git clone https://github.com/Khaniyadarshana/Netflix_Clone
 
-### `npm test`
+Install Dependencies:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Copy code: 
+npm install
 
-### `npm run build`
+Get Your TMDB API Key:
+Sign up at TMDB API.
+Replace 'apiKey' in the .env file with your actual API key.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Start the Development Server:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Copy code: 
+npm start
 
-### `npm run eject`
+# Contributions:
+I welcome contributions from developers of all levels. Here are some ways you can get involved:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Open issues to report bugs or suggest improvements.
+Submit pull requests to add features or fix issues.
+Share your ideas and feedback in the discussions section.
+Let's collaborate and make this project even more amazing!
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Connect with Me:
+If you're interested in collaborating, have questions, or just want to connect with fellow developers, don't hesitate to reach out to me on LinkedIn at https://www.linkedin.com/in/darshana-khaniya-662452163. Let's learn and grow together!
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
