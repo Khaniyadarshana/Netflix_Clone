@@ -3,6 +3,7 @@ Welcome to the Netflix Clone project! This project is a result of my journey int
 
 # How it looks
 ![Netflix Clone Image]("C:\Users\CHANDRIKA RAVI\Downloads\Netflixshot.png")
+
 # Features:
 📽️ Browse a vast library of movies and TV shows from the TMDB API.
 🎥 Watch movie trailers by clicking on the titles.
