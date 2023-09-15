@@ -1,9 +1,6 @@
 # Netflix_Clone
 Welcome to the Netflix Clone project! This project is a result of my journey into the world of web development, where I recreated the user interface of Netflix using React, Sass, and the TMDB API, all thanks to the amazing guidance from @meabhisingh(aka 6packprogrammer) on YouTube. It's been an incredible learning experience, and I'm excited to share it with you.
 
-# How it looks
-![Netflix Clone Image]("C:\Users\CHANDRIKA RAVI\Downloads\Netflixshot.png")
-
 # Features:
 📽️ Browse a vast library of movies and TV shows from the TMDB API.
 🎥 Watch movie trailers by clicking on the titles.
